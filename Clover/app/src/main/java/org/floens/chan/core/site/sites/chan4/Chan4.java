@@ -484,7 +484,7 @@ public class Chan4 extends SiteBase {
 
         captchaType = new OptionsSetting<>(settingsProvider,
                 "preference_captcha_type",
-                CaptchaType.class, CaptchaType.V2NOJS);
+                CaptchaType.class, CaptchaType.V2JS);
     }
 
     @Override
