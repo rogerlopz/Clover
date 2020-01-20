@@ -19,7 +19,7 @@ package org.floens.chan.ui.layout;
 
 import android.content.Context;
 import android.os.Parcelable;
-import android.support.v4.widget.SlidingPaneLayout;
+import androidx.slidingpanelayout.widget.SlidingPaneLayout;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;

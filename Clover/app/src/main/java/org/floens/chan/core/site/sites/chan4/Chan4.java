@@ -17,7 +17,7 @@
  */
 package org.floens.chan.core.site.sites.chan4;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.webkit.CookieManager;
 import android.webkit.WebView;
 
